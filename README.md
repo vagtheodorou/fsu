@@ -18,7 +18,7 @@ Usage
 Read the fsu_manual.pdf or the help file for documentation
 ``` r
 # help file
-?fsu-package
+?`fsu-package`
 ```
 
 License
