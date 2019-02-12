@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import(forecast)
+importFrom("graphics", "lines")
+importFrom("stats", "acf", "decompose", "frequency", "lm", "optimize",
+               "predict")
+importFrom("utils", "head", "tail")

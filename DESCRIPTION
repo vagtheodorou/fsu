@@ -1,0 +1,12 @@
+Package: fsu
+Type: Package
+Title: Methods developed by the FSU
+Version: 0.1.0
+Author: Evangelos Theodorou
+Maintainer: Evangelos Theodorou <vagtheodorou@fsu.gr>
+Description: Featuring forecasting methods developed by the Forecasting & Strategy Unit (NTUA).
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: yes
+Depends: forecast
+URL: http://fsu.gr
