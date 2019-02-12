@@ -12,3 +12,16 @@ You can install the **development** version from
 # install.packages("devtools")
 devtools::install_github("vagtheodorou/fsu")
 ```
+Usage
+-------
+
+Read the fsu_manual.pdf or the help file for documentation
+``` r
+# help file
+?fsu-package
+```
+
+License
+-------
+
+This package is free and open source software, licensed under GPL-3
