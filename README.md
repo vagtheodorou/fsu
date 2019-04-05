@@ -20,8 +20,3 @@ Read the fsu_manual.pdf or the help file for documentation
 # help file
 ?`fsu-package`
 ```
-
-License
--------
-
-This package is free and open source software, licensed under GPL-3
